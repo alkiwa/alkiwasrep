@@ -1,0 +1,7 @@
+*.exe
+*.bin
+*.jar
+*.so
+*.dll
+*.tmp
+*.log
